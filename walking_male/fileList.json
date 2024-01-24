@@ -1,0 +1,12 @@
+{
+  "fileList": {
+    "name": "walking_male",
+    "fileName": "frame",
+    "description": "male, lowpoly, walking loop - has intro/exit",
+    "suffix": "obj",
+    "hasLoop": true,
+    "loopRangeStart": 20,
+    "loopRangeEnd": 50,
+    "fileCount": 61
+  }
+}
