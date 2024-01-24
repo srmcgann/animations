@@ -3,6 +3,7 @@
     "name": "back_flip_male",
     "fileName": "character_rigged",
     "description": "male, lowpoly, backflip loop",
+    "hasLoop": true,
     "loopRangeStart": 0,
     "loopRangeEnd": 61,
     "suffix": "obj",
