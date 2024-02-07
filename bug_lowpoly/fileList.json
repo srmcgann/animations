@@ -1,0 +1,12 @@
+{
+  "fileList": {
+    "name": "bug low poly",
+    "fileName": "bug_lowpoly",
+    "description": "walking bug, low poly",
+    "hasLoop": true,
+    "loopRangeStart": 0,
+    "loopRangeEnd": 61,
+    "suffix": "obj",
+    "fileCount": 61
+  }
+}

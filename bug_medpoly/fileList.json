@@ -1,0 +1,12 @@
+{
+  "fileList": {
+    "name": "bug med poly",
+    "fileName": "bug_medpoly",
+    "description": "walking bug, med poly",
+    "hasLoop": true,
+    "loopRangeStart": 0,
+    "loopRangeEnd": 61,
+    "suffix": "obj",
+    "fileCount": 61
+  }
+}

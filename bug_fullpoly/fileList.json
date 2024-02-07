@@ -1,0 +1,12 @@
+{
+  "fileList": {
+    "name": "bug full poly",
+    "fileName": "bug_fullpoly",
+    "description": "walking bug, full poly",
+    "hasLoop": true,
+    "loopRangeStart": 0,
+    "loopRangeEnd": 61,
+    "suffix": "obj",
+    "fileCount": 61
+  }
+}
