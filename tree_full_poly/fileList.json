@@ -1,0 +1,12 @@
+{
+  "fileList": {
+    "name": "tree_full_poly",
+    "fileName": "tree_full_poly",
+    "description": "tree blowing, full poly",
+    "hasLoop": true,
+    "loopRangeStart": 1,
+    "loopRangeEnd": 60,
+    "suffix": "obj",
+    "fileCount": 59
+  }
+}

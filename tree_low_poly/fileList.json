@@ -1,0 +1,12 @@
+{
+  "fileList": {
+    "name": "tree_low_poly",
+    "fileName": "tree_low_poly",
+    "description": "tree blowing, low poly",
+    "hasLoop": true,
+    "loopRangeStart": 1,
+    "loopRangeEnd": 60,
+    "suffix": "obj",
+    "fileCount": 59
+  }
+}

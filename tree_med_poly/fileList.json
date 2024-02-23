@@ -1,0 +1,12 @@
+{
+  "fileList": {
+    "name": "tree_med_poly",
+    "fileName": "tree_med_poly",
+    "description": "tree blowing, med poly",
+    "hasLoop": true,
+    "loopRangeStart": 1,
+    "loopRangeEnd": 60,
+    "suffix": "obj",
+    "fileCount": 59
+  }
+}
